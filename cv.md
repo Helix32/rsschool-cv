@@ -25,3 +25,6 @@ I want to go back to IT. I want to become a frontend developer.
 7. Education:
  * Nizhny Novgorod State Technical University n.a. R.E. Alekseev
  * Nizhny Novgorod Institute of Information Technology (by Mera company)
+
+8. English  language
+ * English language courses.
